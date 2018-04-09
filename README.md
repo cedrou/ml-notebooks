@@ -1,2 +1,2 @@
 # ml-notebooks
-Collections of Jupyter Notebooks related to ML
+Collection of Jupyter Notebooks related to ML
