@@ -1,11 +1,10 @@
 @echo off
 
-set CONDA_PATH=C:\Users\cedro\Anaconda3
-set ENVNAME=tensorflow-gpu
+set CONDA_PATH=C:\Users\cedro\Anaconda2
+set ENVNAME=tf-gpu
 
 
-call %CONDA_PATH%\Scripts\activate.bat %CONDA_PATH%
-call activate %ENVNAME%
-jupyter notebook
+call %CONDA_PATH%\Scripts\activate.bat %ENVNAME%
+jupyter lab
 
 pause
