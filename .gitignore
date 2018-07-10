@@ -1,2 +1,4 @@
+.vscode/
 .ipynb_checkpoints/
-python/char_rnn/checkpoints/
+scripts/char_rnn/checkpoints/
+*.vocab
